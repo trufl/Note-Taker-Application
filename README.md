@@ -1,4 +1,4 @@
-# Note Taker
+# Notes Only
 
 ## Description
 
@@ -20,7 +20,7 @@ Installation instructions: `npm i`
 
 ## Usage
 If developing, after the installation instructions have been completed you can start the application by running `npm start`. 
-Otherwise you can visit to use the deployed version,  . To take a note click get started. You will then been taken to the page where
+Otherwise you can visit to use the deployed version, https://notes-only.herokuapp.com. To take a note click get started. You will then been taken to the page where
 you can take notes. After you fill out the title and have written something in the body, the save button will appear. Click the save
 button to save the note you made. You will then see your note appear to the left. Click on the saved note to display it the or click the
 red trash can if you want to delete it. If a saved note is being displayed you can click the plus button to start a new note.
